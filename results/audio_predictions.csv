@@ -1,0 +1,11 @@
+filename,actual_label,predicted_label,confidence
+1-100032-A-0.wav,dog,Bark,18.7553271651268
+1-101296-B-19.wav,thunderstorm,Thunder,54.9074649810791
+1-104089-A-22.wav,clapping,Clapping,79.1034996509552
+1-110537-A-22.wav,clapping,Applause,90.14450907707214
+1-115521-A-19.wav,thunderstorm,Thunder,48.75221252441406
+1-115921-A-22.wav,clapping,Clapping,43.916723132133484
+1-13571-A-46.wav,church_bells,Church bell,71.36426568031311
+1-155858-D-25.wav,footsteps,Clapping,19.0116748213768
+1-155858-E-25.wav,footsteps,Fireworks,56.32334351539612
+1-155858-F-25.wav,footsteps,"Walk, footsteps",46.64970636367798
